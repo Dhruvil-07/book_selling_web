@@ -1,0 +1,184 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:url(bbg.jpg);
+	background-size:cover;
+	background-position:center;
+}
+
+.info
+{
+	width : 420px;
+	height: 500px;
+	background: white;
+	color:black	;
+	top:50%;
+	left:70%;
+	position:absolute;
+	transform: translate(-50% , -50%);
+	box-sizing:border-box;
+	right : -650px;
+	border-radius : 40px;
+}
+
+h1
+{
+	text-align:center;
+	padding : 20px;
+
+}
+
+.container
+{
+	width :400px;
+	height:320px;
+	background: white;
+	color:black	;
+	top:50%;
+	left:50%;
+	position:absolute;
+	transform: translate(-50% , -50%);
+	box-sizing:border-box;
+	right : -650px;
+}
+
+.a
+{
+ 
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top: 0%;
+	left: 5%;
+}
+
+.email
+{
+	width:300px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 10%;
+	
+	
+}
+
+.b
+{
+
+	width : 360px;
+	height: 150px;
+	background: white;
+	position:absolute;
+	top:50%;
+	left: 6%;
+}
+.btns
+{
+	width:100px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 5%;
+
+}
+.btnb
+{
+	width:100px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 50%;
+	top: 10;
+
+}
+
+.c
+{
+
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top:50%;
+	left: 5%;
+}
+.btn
+{
+	width:100px;
+	height:50px;
+	position:absolute;
+	border-radius : 10px;
+	text-align : center;
+	left: 40%;
+	
+	
+}
+
+
+.d
+{
+
+	width : 200px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top: 60%;
+	left: 70%;
+}
+.b1
+{
+	width:200px;
+	height:50px;
+	position:absolute;
+	text-align : center;
+	left:5%;
+	top : 10%;
+	font-size : 20px;
+	display:block;
+	text-decoration:none;	
+}
+
+
+.e
+{
+
+	width : 100px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top: 70%;
+	left: 75%;
+}
+.btn2
+{
+	width:100px;
+	height:50px;
+	position:absolute;
+	border-radius : 10px;
+	text-align : center;
+	left: -20%;
+}
+
+
+.f
+{
+
+	width : 200px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top: 70%;
+	left: 58%;
+}
+h2s
+{
+	text-align:center;
+	padding : 20px;
+	
+}

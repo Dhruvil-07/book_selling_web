@@ -1,0 +1,182 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:url(paymnet.jpg);
+	background-size:cover;
+	background-position:center;
+}
+
+.infopay
+{
+	width : 420px;
+	height:520px;
+	background: white;
+	color:black	;
+	top:50%;
+	left:70%;
+	position:absolute;
+	transform: translate(-50% , -50%);
+	box-sizing:border-box;
+	right : -650px;
+	border-radius : 40px;
+}
+
+h1
+{
+	text-align:center;
+	padding : 20px;
+
+}
+
+.containerpay
+{
+	width :400px;
+	height:320px;
+	background: white;
+	color:black	;
+	top:50%;
+	left:50%;
+	position:absolute;
+	transform: translate(-50% , -50%);
+	box-sizing:border-box;
+	right : -650px;
+}
+
+.pa
+{
+
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top:10%;
+	left: 5%;
+}
+.pemail
+{
+	width:300px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 10%;
+}
+
+
+.pb
+{
+
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top:30%;
+	left: 5%;
+}
+.pname
+{
+	width:300px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 10%;
+	
+	
+}
+
+
+.pp
+{
+
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top:50%;
+	left: 5%;
+}
+.pphone
+{
+	width:300px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 10%;
+	
+	
+}
+
+
+.pq
+{
+
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top:70%;
+	left: 5%;
+}
+.pqty
+{
+	width:300px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 10%;
+	
+	
+}
+
+
+.pc
+{
+
+	width : 350px;
+	height: 100px;
+	background: white;
+	position:absolute;
+	top:90%;
+	left: 5%;
+}
+.pcard
+{
+	width:300px;
+	height:50px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	left: 10%;
+	
+	
+}
+
+
+
+.pbt
+{
+
+	width : 350px;
+	height: 20px;
+	background: white;
+	position:absolute;
+	top:115%;
+	left: 5%;
+}
+.pbtn
+{
+	width:100px;
+	height:40px;
+	position:absolute;
+	border-radius : 10px;
+	text-align : center;
+	left: 40%;
+	
+	
+}
+
+

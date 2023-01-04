@@ -1,0 +1,31 @@
+body
+{
+	margin:0;
+	padding:0;
+	
+}
+
+.back
+{
+
+	width : 350px;
+	height: 20	px;
+	background: white;
+	position:absolute;
+	top:85%;
+	left : 95;
+}
+.backbtn
+{
+	width:130px;
+	height:60px;
+	position:absolute;
+	border-radius : 20px;
+	text-align : center;
+	color : white;
+	background : red;
+	left: 150%;
+	font-size : 16px;
+	
+	
+}
