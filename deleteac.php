@@ -37,7 +37,7 @@
 		<div class="container">
 		
 			<div class="a">
-				<label class="email"> <h1> Are You Sure You Want to delete your account ? </h1></label>
+				<label class="email"> <h1> You Want to delete your account ? </h1></label>
 			</div>
 		
 			<div class="b">
