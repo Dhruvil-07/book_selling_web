@@ -7,7 +7,7 @@
 	
 	if($_SERVER["REQUEST_METHOD"] == "POST")
 	{
-		// USER NAME VALIDATION 
+		// USER-NAME VALIDATION 
 		
 		if(empty(trim($_POST["username"])))
 		{
